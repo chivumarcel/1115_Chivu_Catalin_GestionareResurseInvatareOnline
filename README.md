@@ -6,11 +6,12 @@ Prin proiectul "Gestionare Resurse de Invatare Online" intentionez crearea unei 
 
 ## Functionalitati
 
-- Creare si gestionare cont utilizator
+- Creare si gestionare conturi utilizator
 - Incarcare, editare si stergere resurse educationale
-- Integrare cu API-ul Facebook pentru partajarea resurselor pe grupuri si pagini
-- Cautare si filtrare resurse
-- Sectiune de comentarii si feedback pentru resurse
+- Inscriere la cursuri de catre potentialii cursanti (conturi utilizator)
+- Integrare cu API-ul Facebook pentru partajarea resurselor pe grupuri si pagini // in progress...
+  conform https://developers.facebook.com/docs/plugins/share-button/ -- pare sa nu functioneze cu linkuri localhost...
+- Afisare resurse de invatare, confirmare inscriere la curs
 
 ## Tehnologii Utilizate
 
